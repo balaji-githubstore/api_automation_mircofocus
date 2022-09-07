@@ -9,6 +9,9 @@ import org.testng.annotations.Test;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
+/**
+ * Added code for testing petshop API
+ */
 public class PetShopTest {
     private String baseUrl="https://petstore.swagger.io/v2/";
 
